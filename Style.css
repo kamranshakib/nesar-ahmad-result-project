@@ -20,7 +20,7 @@ body {
   width: 650px;
   height: 450px;
   border-radius: 30px;
-  overflow-x: hidden;
+/*   overflow-x: hidden; */
   background-color: #ffffff;
   display: flex;
 }
